@@ -1,2 +1,1 @@
-# ToDoList
-Prosta automatycznie synchronizująca się z bazą danych lista zadań (PHP)
+Simple Task List (PHP) that automatically syncs with the database
